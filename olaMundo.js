@@ -1,2 +1,2 @@
 console.log("Olá, Mundo");
-copnsole.log("Olá, dia!");
+copnsole.log("Olá, dia");
